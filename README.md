@@ -13,7 +13,7 @@ Also start adding you code comment as follows for your functions
 	/**
 	 * showMatchedLetter function
 	 * @param {string} letter  - the letter the user chose on the screens
-     * @return {array | object | string | number | boolean} - if the function returns something pass the data type that returns from the function (you will only enter one)
+         * @return {array | object | string | number | boolean} - if the function returns something pass the data type that returns from the function (you will only enter one)
 	 */
 
     function showMatchedLetter(letter) { more code here }
